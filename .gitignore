@@ -1,0 +1,12 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Oracle / SQL*Plus artifacts
+*.log
+*.lst
+*.bak
+afiedt.buf
